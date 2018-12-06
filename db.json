@@ -67,14 +67,14 @@
       "category": 3,
       "date": "10.10.2018 14:01:58",
       "id": 5,
-      "description": "Refueling + parking"
+      "description": "Refueling + parking + cafe"
     },
     {
       "type": "outcome",
       "amount": 1200,
       "category": 3,
       "date": "24.10.2018 16:44:57",
-      "description": "test",
+      "description": "aroma tlv",
       "id": 6
     },
     {
@@ -82,7 +82,7 @@
       "amount": 3000,
       "category": 3,
       "date": "25.10.2018 23:45:29",
-      "description": "test2",
+      "description": "castro",
       "id": 7
     },
     {
@@ -90,7 +90,7 @@
       "amount": 1200,
       "category": 2,
       "date": "28.10.2018 13:32:28",
-      "description": "test filter",
+      "description": "zara tlv",
       "id": 8
     }
   ]
